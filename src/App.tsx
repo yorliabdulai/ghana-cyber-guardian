@@ -9,6 +9,7 @@ import Threats from "./pages/Threats";
 import Incidents from "./pages/Incidents";
 import Analytics from "./pages/Analytics";
 import Reports from "./pages/Reports";
+import Research from "./pages/Research";
 import Settings from "./pages/Settings";
 import Login from "./pages/Login";
 import NotFound from "./pages/NotFound";
@@ -33,6 +34,7 @@ const App = () => (
               <Route path="/incidents" element={<Incidents />} />
               <Route path="/analytics" element={<Analytics />} />
               <Route path="/reports" element={<Reports />} />
+              <Route path="/research" element={<Research />} />
               <Route path="/settings" element={<Settings />} />
               <Route path="*" element={<NotFound />} />
             </Routes>
