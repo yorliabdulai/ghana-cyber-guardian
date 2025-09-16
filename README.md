@@ -155,7 +155,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 Author
 
-**Yorli Abdulai**
+**Abdulai Yorli Iddrisu**
 - GitHub: [@yorliabdulai](https://github.com/yorliabdulai)
 - Project: [Ghana Cyber Guardian](https://github.com/yorliabdulai/ghana-cyber-guardian)
 
